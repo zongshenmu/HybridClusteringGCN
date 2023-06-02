@@ -5,11 +5,11 @@ The core codes of Hybrid Clustering Graph Convolutional Network for Multimedia R
 
 It shows user-item bi-graph clustering algorithm by the DGL package.
 
-### baby_models.py
+### sports_models.py
 
 It includes various gcns and ours.
 
-### baby_main.py
+### sports_main.py
 
 It mainly contains the loss function.
 
